@@ -8,11 +8,14 @@
 
 - 🔭 I’m currently working on My Portfolio Website
 
-- 🌱 I’m currently learning **Full Stack Java.**
+- 🌱 I’m currently learning **Full Stack Java, Competitive Programming**
 
-- 👨‍💻 All of my projects are available at...
+- 👨‍💻 Find me on...
 
-- 📫 How to reach me **afshaansar786@gmail.com**
+- 📫 How to reach me: Just drop a text!
+<p><a href="http://www.gmail.com/" target="blank"><img align="center" src="https://img.shields.io/badge/afshaansar786@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="socials"/></a></p>
+
+- 😄 Pronouns: **She/Her**
 
 - ⚡ Fun fact **I love to draw and read books.**
 
@@ -63,7 +66,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<p align="center"><a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Afshaan16">
 </a>
-<a href="https://github.com/Afshaan16?tab=followers"><img src="https://img.shields.io/github/followers/Afshaan16?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Afshaan16?tab=followers"><img src="https://img.shields.io/github/followers/Afshaan16?label=Followers&style=social" alt="GitHub Badge"></a></p>
